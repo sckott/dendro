@@ -1,0 +1,28 @@
+dendro
+=======
+
+```{r echo=FALSE}
+knitr::opts_chunk$set(
+  warning = FALSE,
+  message = FALSE,
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+`dendro` is an R package to collect tree ring data.
+
+## Install
+
+```{r eval=FALSE}
+install.packages("devtools")
+devtools::install_github("sckott/dendro")
+```
+
+```{r}
+library("dendro")
+```
+
+## Do something
+
+xxxx

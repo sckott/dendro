@@ -1,0 +1,12 @@
+Package: dendro
+Title: Get tree ring data
+Description: Get tree ring data.
+Version: 0.0.1.900
+Date: 2015-04-29
+Authors@R: c(person("Arvind", "Bhuta", role = c("aut", "cre"),
+    email = "bhuta.arvind@gmail.com"),
+    person("Scott", "Chamberlain", role = "aut",
+    email = "myrmecocystus@gmail.com"))
+License: MIT + file LICENSE
+Suggets:
+    roxygen2
